@@ -15,7 +15,6 @@ public class home4 {
     }
 
     public static void printArray(String[] arr) {
-        // Print elements of array
         System.out.println("Các Phần Tử Của Mảng ");
         for (String element : arr) {
             System.out.print(element + "\t");
